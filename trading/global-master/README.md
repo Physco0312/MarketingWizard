@@ -11,9 +11,4 @@ A discord bot will notify you about all my market analysis and when to enter to 
 **MARKET ANALYSIS**
 Access to my market analysis and investment recommendations, so that you not only earn but also learn
 
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+Discord: audiforze202geremy
