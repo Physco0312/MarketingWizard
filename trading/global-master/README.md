@@ -1,14 +1,15 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+# MartketWizard
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+### A proyect develop by [physco]https://audiforze.github.io/Website/Physlab/index.html
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+**SIGNAL CHANNEL**
+Access to a signals channel where you can see all my trading positions in real time.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+**NOTIFICATION BOT**
+A discord bot will notify you about all my market analysis and when to enter to make profits
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+**MARKET ANALYSIS**
+Access to my market analysis and investment recommendations, so that you not only earn but also learn
 
 [LIVE PREVIEW](http://buckymaler.com/global)
 
